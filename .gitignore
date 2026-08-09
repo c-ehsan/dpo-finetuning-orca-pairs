@@ -54,6 +54,12 @@ cover/
 # Translations
 *.mo
 *.pot
+#model file 
+model/
+#venv file 
+transformer_env/
+#dataset file
+dataset/
 
 # Django stuff:
 *.log
