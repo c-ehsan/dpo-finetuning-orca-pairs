@@ -1,6 +1,6 @@
 datasets==2.19.1
 trl==0.9.6
-peft==0.11.1
+peft==0.20.0
 transformers==4.41.0
 bitsandbytes==0.43.1
 sentencepiece==0.1.99
